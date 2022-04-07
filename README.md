@@ -35,6 +35,6 @@ Postman
 Disponibilidade: 
 Eureka
 
-Para a execução das aplicações locais, aplicação de conta-corrente DEPENDE das aplicações:
+Para a execução das aplicações locais, aplicação de credito depende da aplicação eureka:
 
 eureka (https://github.com/mbagrupo03/eureka) já estar online para receber os registros;
